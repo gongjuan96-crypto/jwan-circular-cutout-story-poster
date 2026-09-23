@@ -86,3 +86,17 @@ Before returning the image, verify:
 - The result is a single coherent poster suitable for social sharing.
 
 When using imagegen or another image generation tool, pass the source image as the reference and state these constraints explicitly in the prompt. Prefer precise layout language over generic style labels.
+
+## Commercial use & contact
+
+Created by **Jwan** — Visual Design · Event Design · AI Visual Workflow.
+
+For **commercial customization, brand collaboration, commissioned design, workflow adaptation, or more information**, please contact Jwan.
+
+- GitHub: https://github.com/gongjuan96-crypto
+- More Jwan Skills: https://github.com/gongjuan96-crypto/jwan-skills
+
+如需 **商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式**，欢迎联系 Jwan。
+
+When sharing, adapting, or redistributing this Skill, please retain the original **Jwan** attribution in the documentation.
+
