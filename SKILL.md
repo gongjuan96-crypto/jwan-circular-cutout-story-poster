@@ -95,6 +95,8 @@ For **commercial customization, brand collaboration, commissioned design, workfl
 
 - GitHub: https://github.com/gongjuan96-crypto
 - More Jwan Skills: https://github.com/gongjuan96-crypto/jwan-skills
+- WeChat: https://u.wechat.com/MJMydWwPFYpx-ZUAhUv6hj4?s=2
+- WeChat QR: https://github.com/gongjuan96-crypto/jwan-skills/blob/main/assets/jwan-wechat-contact.svg
 
 如需 **商业定制、品牌合作、设计委托、工作流适配，或希望了解更多使用方式**，欢迎联系 Jwan。
 
